@@ -3,7 +3,7 @@
 A simple website that provides tutorials and resources for popular cybersecurity tools.
 
 ## 🌐 Live Website
-👉 https://prettymonster.github.io/Cyber-Tools-Hub/
+👉 https://github.com/Artifact-Shruti/Cyber-Tools-Hub.git
 
 ## 📌 Features
 - Dark hacker-themed UI
